@@ -1,5 +1,5 @@
 require "rubytldmap/version"
+require "rubytldmap/lookup"
 
 module Rubytldmap
-  # Your code goes here...
 end

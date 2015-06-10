@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ernestas.poskus@gmail.com"]
 
   spec.summary       = %q{Hash map of Top Level domains}
-  spec.homepage      = "https://github.com/linkosmosis/rubytldmap"
+  spec.homepage      = "https://github.com/linkosmos/rubytldmap"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
